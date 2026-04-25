@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Premium Dark Theme Palette -->
+    <color name="bg_deep">#0D0D1A</color>
+    <color name="card_bg">#171728</color>
+    <color name="btn_off_bg">#252538</color>
+    <color name="notif_bg">#1A1A2E</color>
+    <color name="accent_purple">#BB86FC</color>
+    <color name="accent_purple_dark">#7B2FBE</color>
+
+    <!-- Text Palette -->
+    <color name="text_primary">#F0F0FF</color>
+    <color name="text_secondary">#BBBBCC</color>
+    <color name="text_dim">#7777AA</color>
+    <color name="error_red">#CF6679</color>
+</resources>
